@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/allenben746/api-3/issues"
   },
-  "homepage": "https://github.com/allenben746/api-3#readme"
+  "homepage": "https://github.com/allenben746/api-3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
